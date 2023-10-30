@@ -28,5 +28,14 @@ print("số lượng:",so_luong)
 print("đơn giá:",don_gia)
 tien_phai_tra = so_luong*don_gia
 print("tiền phải trả:",tien_phai_tra,"vnđ")
-
-
+#BÀI TẬP 1.4
+print("bài tập 1.4")
+import math
+a=int(input("Nhập cạnh tam giác thứ nhất:"));
+b=int(input("Nhập cạnh tam giác thứ hai:"));
+c=int(input("Nhập cạnh tam giác thứ ba:"));
+cv=a+b+c
+p=cv/2
+dt=math.sqrt(p*(p-a)*(p-b)*(p-c))
+print("Chu vi = ", cv)
+print("Diện tích = ", dt)
