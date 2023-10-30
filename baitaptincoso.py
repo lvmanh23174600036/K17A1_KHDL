@@ -1,10 +1,11 @@
-
+#BÀI TẬP 1.1
 print("bài tập 1.1")
 print("**    **    ********    **        **        ******")
 print("**    **    **          **        **        **  **")
 print("********    ********    **        **        **  **")  
 print("**    **    **          **        **        **  **")
 print("**    **    ********    *******   *******   ******")
+#BÀI TẬP 1.2
 print("bài tập 1.2") 
 x=10
 y=5
@@ -16,7 +17,7 @@ print('Tổng của' , x, '+', y, '=', c)
 print('Hiệu của', x, '-', y, '=', d)
 print("tích của", x,"x",y, "=",e )
 print("Thương của",x,"/",y,"=",f )
-
+#BÀI TẬP 1.3
 print("bài tập 1.3")
 ten_hang="sữa hộp Vina milk"
 so_luong=5
@@ -27,4 +28,5 @@ print("số lượng:",so_luong)
 print("đơn giá:",don_gia)
 tien_phai_tra = so_luong*don_gia
 print("tiền phải trả:",tien_phai_tra,"vnđ")
+
 
