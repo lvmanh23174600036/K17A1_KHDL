@@ -1,12 +1,12 @@
-#BÀI TẬP 1.1
-print("bài tập 1.1")
+#BÀI TẬP 6.1
+print("bài tập 6.1")
 print("**    **    ********    **        **        ******")
 print("**    **    **          **        **        **  **")
 print("********    ********    **        **        **  **")  
 print("**    **    **          **        **        **  **")
 print("**    **    ********    *******   *******   ******")
-#BÀI TẬP 1.2
-print("bài tập 1.2") 
+#BÀI TẬP 6.2
+print("bài tập 6.2") 
 x=10
 y=5
 c=x+y
@@ -17,8 +17,8 @@ print('Tổng của' , x, '+', y, '=', c)
 print('Hiệu của', x, '-', y, '=', d)
 print("tích của", x,"x",y, "=",e )
 print("Thương của",x,"/",y,"=",f )
-#BÀI TẬP 1.3
-print("bài tập 1.3")
+#BÀI TẬP 6.3
+print("bài tập 6.3")
 ten_hang="sữa hộp Vina milk"
 so_luong=5
 don_gia=25000
@@ -28,14 +28,20 @@ print("số lượng:",so_luong)
 print("đơn giá:",don_gia)
 tien_phai_tra = so_luong*don_gia
 print("tiền phải trả:",tien_phai_tra,"vnđ")
-#BÀI TẬP 1.4
-print("bài tập 1.4")
+#BÀI TẬP 6.4
+print("bài tập 6.4")
 x=3
 y=2
 z=5
 print((z-x)//y)
-#BÀI TẬP 1.6
-print("bài tập 1.6")
+#BÀI TẬP 6.5
+print("bài tập 6.5")
+so_luong=int(input("Nhập số lượng: "))
+don_gia=int(input("Nhập đơn giá: "))
+thanh_tien=so_luong * don_gia
+print(thanh_tien)
+#BÀI TẬP 6.6
+print("bài tập 6.6")
 tong_so_keo = 63
 so_nguoi = 3
 
@@ -43,13 +49,12 @@ so_keo_moi_nguoi = tong_so_keo // so_nguoi
 so_keo_con_thua = tong_so_keo % so_nguoi
 
 print(f"Mỗi người sẽ được {so_keo_moi_nguoi} viên kẹo và sẽ đập {so_keo_con_thua} viên kẹo.")
-#BÀI TẬP 1.7
-print("bài tập 1,7")
+#BÀI TẬP 6.7
+print("bài tập 6.7")
 do_c = int(input("số độ c:"))
 do_f = 9/5*do_c+32 
 print(do_c,"tương ứng với",do_f,"độ f")
-#BÀI TẬP 1.8
-print("bài tập 1.8")
+
 
 
 
