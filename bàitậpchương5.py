@@ -1,10 +1,10 @@
-print("bài tập 1.")
+print("bài tập 5.1")
 print("**    **    ********    **        **        ******")
 print("**    **    **          **        **        **  **")
 print("********    ********    **        **        **  **")  
 print("**    **    **          **        **        **  **")
 print("**    **    ********    *******   *******   ******")
-print("bài tập 1.2") 
+print("bài tập 5.2") 
 x=10
 y=5
 c=x+y
@@ -16,7 +16,7 @@ print('Hiệu của', x, '-', y, '=', d)
 print("tích của", x,"x",y, "=",e )
 print("Thương của",x,"/",y,"=",f )
 
-print("bài tập 1.3")
+print("bài tập 5.3")
 ten_hang="sữa hộp Vina milk"
 so_luong=5
 don_gia=25000
